@@ -1,3 +1,4 @@
 I was born on 2005 October 16
 I have done my HSC 2022
 I admitted University in Finland. 
+I have been learning git and github since last month.
