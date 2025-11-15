@@ -6,5 +6,4 @@ I have been learning git and github since last month.
 I am learning .NET full-stack development.
 I have started learning Feature1. 
 I have started learning Feature2 recently. 
-Text is added from main branch to show merge conflict. 
- 
+A new line is added in the feature branch for showing a merge conflict. 
