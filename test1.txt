@@ -5,7 +5,5 @@ I admitted University in Finland.
 I have been learning git and github since last month.
 I am learning .NET full-stack development.
 I have started learning Feature1. 
-I have started learning Feature2 recently. 
-This is new line. 
-Second new line is added.
-Feature3 Branch is made.  
+I have started learning Feature2 recently.
+New line is added  on feature 2.  
