@@ -1,9 +1,9 @@
-I was born on 2005 October 16
+I was born on 2005 October 8
 I have done my HSC 2022
+I am currently studying at National University. 
 I admitted University in Finland. 
 I have been learning git and github since last month.
 I am learning .NET full-stack development.
 I have started learning Feature1. 
 I have started learning Feature2 recently.
 New line is added  on feature 2.  
- 
